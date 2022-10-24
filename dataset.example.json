@@ -1,0 +1,74 @@
+[
+  {
+    "SalesOrder__BSTKD": 45329685,
+    "LIPS_POSNR": 900001,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-05-06",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45327766,
+    "LIPS_POSNR": 900002,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-05-06",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45327766,
+    "LIPS_POSNR": 900001,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-04-22",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 38648,
+    "LIPS_POSNR": 20,
+    "Material__Material": 1510341,
+    "Batch__HSDAT": "2022-04-01",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 38648,
+    "LIPS_POSNR": 10,
+    "Material__Material": 1510341,
+    "Batch__HSDAT": "2022-03-07",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45324676,
+    "LIPS_POSNR": 900002,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-04-22",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45324676,
+    "LIPS_POSNR": 900001,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-04-14",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45324952,
+    "LIPS_POSNR": 900002,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-04-14",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  },
+  {
+    "SalesOrder__BSTKD": 45324952,
+    "LIPS_POSNR": 900001,
+    "Material__Material": 1509958,
+    "Batch__HSDAT": "2022-03-21",
+    "Batch__HERKL": "BE",
+    "Batch__ProductionPlant": "NBE1"
+  }
+]
